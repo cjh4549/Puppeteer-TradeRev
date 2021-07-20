@@ -1,0 +1,16 @@
+{
+  "name": "automateapp",
+  "version": "1.0.0",
+  "description": "testapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jun Choi",
+  "license": "ISC",
+  "dependencies": {
+    "expect-puppeteer": "^5.0.3",
+    "fs-extra": "^9.1.0",
+    "puppeteer": "^7.1.0"
+  }
+}
